@@ -2,25 +2,25 @@
 ## About Me
 Hi! I'm Ahmad Urabi. I am a 4th year Computer Engineering Student at Princess Sumaya University for Technology (PSUT). I am also a full stack web developer, with focus on API and Backend development
 
-## Not many repos?
-I mainly use private repositories for my projects, this is why my contribution graph shows a lot of activity, but almost none of my publicly accessible repositories have that kind of activity.
-
 ## Skills
 
 ### Front End
-  - React
+  - React (TypeScript)
   - NextJS (TypeScript)
   - TailwindCSS
+  - Tanstack Query
 
 ### Back End
   - Rust
-  - .NET (ASP.NET & Asmx web services)
+  - Laravel
+  - .NET (Beginner)
 
 ### Databases
-  - Oracle
+  - Oracle (12c)
   - PostgreSQL
 
 ### Mobile
+  - React Native
   - Swift (SwiftUI & Swift Data)
   - Flutter
 
